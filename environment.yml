@@ -1,0 +1,9 @@
+name: art-of-r
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base
+  - r-irkernel
+  - jupyterlab
+  - r-tidyverse
